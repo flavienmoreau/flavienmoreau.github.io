@@ -1,0 +1,36 @@
+# Sorted automatically by year (newest first) on the Research page.
+# Set "status" to e.g. "Published", "Forthcoming", "R&R", "Working paper", or leave blank.
+# Each link is {text, url}; add as many as you like (Journal, PDF, Slides, Code...).
+
+- title: "Title of your most recent working paper"
+  authors: "Flavien Moreau and [Coauthor]"
+  year: 2026
+  venue: ""
+  status: "Working paper"
+  abstract: "A short, plain-language abstract. Replace this with one or two sentences describing the question, method, and main finding."
+  links:
+    - text: "PDF"
+      url: "#"
+    - text: "Slides"
+      url: "#"
+
+- title: "Title of a published article"
+  authors: "Flavien Moreau"
+  year: 2024
+  venue: "Journal of Such and Such"
+  status: "Published"
+  abstract: ""
+  links:
+    - text: "Journal"
+      url: "#"
+    - text: "PDF"
+      url: "#"
+
+- title: "Title of an earlier paper"
+  authors: "Flavien Moreau and [Coauthor]"
+  year: 2022
+  venue: "Another Journal"
+  status: "Published"
+  links:
+    - text: "Journal"
+      url: "#"
