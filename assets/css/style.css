@@ -94,6 +94,12 @@ a:hover{ color:var(--accent-hover); border-bottom-color:var(--accent-hover); }
   .entry .date{ position:absolute; left:0; top:.18em; margin:0; }
 }
 
+/* ── CV nested detail ── */
+.entry .sub{ font-weight:600; font-size:.96rem; margin-top:.7em; }
+.entry ul{ margin:.4em 0 0; padding-left:1.1em; }
+.entry ul li{ font-size:.95rem; color:var(--muted); margin-bottom:.25em; }
+.entry ul li::marker{ color:var(--rule); }
+
 /* ── contact / footer ── */
 .contact p{ margin:0 0 12px; }
 .icons{
