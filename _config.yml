@@ -3,16 +3,16 @@
 # ─────────────────────────────────────────────────────────────
 title: Flavien Moreau
 description: >-
-  Personal website of Flavien Moreau, economist.
-url: "https://www.flavienmoreau.com"   # your live URL
+  Personal website of Flavien Moreau.
+url: "https://www.flavienmoreau.io"   # your live URL
 baseurl: ""                            # leave empty for a root-domain user site
 
 author:
   name: Flavien Moreau
   role: Economist
-  affiliation: Affiliation Name
+  affiliation: IMF
 
-email: your-email@example.com
+email: fmoreau@imf.org
 
 # Links — leave a value empty ("") to hide that link everywhere.
 social:
