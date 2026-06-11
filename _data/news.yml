@@ -1,11 +1,15 @@
 # Each item shows its date in the left margin (mono), newest first.
 # "html" may contain links/emphasis. Add or remove freely.
 
-- date: "Apr 2026"
-  html: 'New working paper <a href="#">"[Paper title]"</a> (with [Coauthor]) is now circulating.'
+#- date: "Apr 2026"
+#  html: 'New working paper <a href="#">"[Paper title]"</a> (with [Coauthor]) is now circulating.'
 
-- date: "Jan 2026"
-  html: 'I presented <a href="#">"[Paper title]"</a> at [Conference / Seminar].'
+#- date: "Jan 2026"
+#  html: 'I presented <a href="#">"[Paper title]"</a> at [Conference / Seminar].'
 
-- date: "Nov 2025"
-  html: '<a href="#">"[Paper title]"</a> is forthcoming at <em>[Journal]</em>.'
+- date: "Juin 2026"
+  html: '<a href="#">"How Costly are Cartels?"</a> is forthcoming at <em>AEJ: Macro</em>.'
+
+- date: "May 2026"
+  html: '<a href="#">"A Search-based Theory of Merger Waves"</a> is forthcoming at <em>EER</em>.'
+
