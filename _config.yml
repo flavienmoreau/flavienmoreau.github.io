@@ -16,10 +16,10 @@ email: fmoreau@imf.org
 
 # Links — leave a value empty ("") to hide that link everywhere.
 social:
-  scholar:  ""                 # full Google Scholar profile URL
-  repec:    ""                 # full RePEc/IDEAS URL
+  scholar:  "https://scholar.google.com/citations?user=FSoQ5W0AAAAJ"                 # full Google Scholar profile URL
+  repec:    "https://ideas.repec.org/f/pmo1302.html"                 # full RePEc/IDEAS URL
   github:   "flavienmoreau"    # username only
-  linkedin: ""                 # full LinkedIn URL
+  linkedin: "https://www.linkedin.com/in/flavien-moreau-2a0316149"                 # full LinkedIn URL
   twitter:  ""                 # X/Twitter username only
   cv:       "/assets/cv.pdf"   # drop your CV here as assets/cv.pdf
 
