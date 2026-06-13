@@ -8,8 +8,8 @@
 #  html: 'I presented <a href="#">"[Paper title]"</a> at [Conference / Seminar].'
 
 - date: "Juin 2026"
-  html: '<a href="#">"How Costly are Cartels?"</a> is forthcoming at <em>AEJ: Macro</em>.'
+  html: '<a href="https://www.aeaweb.org/articles?id=10.1257/mac.20240087&&from=f">"How Costly are Cartels?"</a> is forthcoming at <em>AEJ: Macro</em>.'
 
 - date: "May 2026"
-  html: '<a href="#">"A Search-based Theory of Merger Waves"</a> is forthcoming at <em>EER</em>.'
+  html: '<a href="https://www.sciencedirect.com/science/article/abs/pii/S001429212600098X">"A Search-based Theory of Merger Waves"</a> is forthcoming at <em>EER</em>.'
 
