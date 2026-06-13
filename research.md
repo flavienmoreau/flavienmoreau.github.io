@@ -13,7 +13,7 @@ title: Research
   <div class="entry">
     <span class="date">Forthcoming</span>
     <div class="title"><a href="/assets/papers/Search_Model_of_M_A_rev2.pdf">A Search-Based Theory of Merger Waves</a></div>
-    <div class="meta"><a href="https://www.aeaweb.org/journals/random-author-order" title="Authors listed in certified random order">ⓡ</a> <a href="https://sites.google.com/site/semihusluweb/home">Semih Üslü</a> · <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S001429212600098X">European Economic Review</a></em> (accepted)</div>
+    <div class="meta"><a href="https://www.aeaweb.org/journals/random-author-order" title="Authors listed in certified random order">ⓡ</a> <a href="https://sites.google.com/site/semihusluweb/home">Semih Üslü</a> · <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S001429212600098X">European Economic Review</a></em> (forthcoming)</div>
     <div class="links"><a href="https://www.imf.org/en/publications/wp/issues/2025/11/14/a-search-based-theory-of-mergers-and-acquisitions-571856">IMF WP 2025/239</a></div>
   </div>
 
