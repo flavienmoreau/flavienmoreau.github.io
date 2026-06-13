@@ -6,10 +6,10 @@ title: Home
 <section class="hero">
   <img class="portrait" src="{{ '/assets/img/portrait.svg' | relative_url }}" alt="{{ site.author.name }}">
   <h1>{{ site.author.name }}</h1>
-  <p class="role">{{ site.author.role }}, {{ site.author.affiliation }}</p>
+  <!-- <p class="role">{{ site.author.role }}, {{ site.author.affiliation }}</p> -->
   <div class="bio">
-    <p>I am a researcher at the International Monetary Fund's Research Department working on macroeconomic development. My main research interests include firm dynamics, demography, and competition policy. My work has been covered by The Economist, BBC, <a href="{{ '/assets/press/NZZ_am_Sonntag_2025-09-28.pdf' | relative_url }}">NZZ</a>, Reuters, Bloomberg, and the Financial Times.</p>
-    <p>In earlier assignments at the Fund, I covered the Democratic Republic of the Congo, Saudi Arabia, as well as regional issues in the Eastern Caribbean and Latin American countries. I received my Ph.D. in Economics from the University of California, Los Angeles in 2019, and degrees in mathematical economics from the London School of Economics and engineering from the École des Ponts.</p>
+    <p>I am a researcher on macroeconomic devolpment at the International Monetary Fund's Research Department with particular interest in firm dynamics, demography, climate finance, and competition policy. My work has been covered by <a href="https://www.economist.com/the-americas/2024/06/13/why-latin-america-is-the-worlds-trade-pipsqueak">The Economist</a>, BBC, <a href="{{ '/assets/press/NZZ_am_Sonntag_2025-09-28.pdf' | relative_url }}">NZZ</a>, Reuters, Bloomberg, and the Financial Times.</p>
+    <p>In earlier assignments at the Fund, I worked on a broad range of economies, including the Democratic Republic of the Congo, Saudi Arabia, as well as Caribbean and Latin American countries. I received my Ph.D. in Economics from the University of California, Los Angeles in 2019, and degrees in mathematical economics from the London School of Economics and engineering from the École des Ponts.</p>
     {% include social.html %}
   </div>
 </section>
