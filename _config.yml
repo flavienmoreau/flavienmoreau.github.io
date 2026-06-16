@@ -17,6 +17,7 @@ email: fmoreau@imf.org
 # Links — leave a value empty ("") to hide that link everywhere.
 social:
   scholar:  "https://scholar.google.com/citations?user=FSoQ5W0AAAAJ"                 # full Google Scholar profile URL
+  orcid:    "https://orcid.org/0000-0001-6163-171X"                 # full ORCID URL
   repec:    "https://ideas.repec.org/f/pmo1302.html"                 # full RePEc/IDEAS URL
   github:   "flavienmoreau"    # username only
   linkedin: "https://www.linkedin.com/in/flavien-moreau-2a0316149"                 # full LinkedIn URL
