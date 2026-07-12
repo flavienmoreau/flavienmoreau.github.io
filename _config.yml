@@ -3,8 +3,8 @@
 # ─────────────────────────────────────────────────────────────
 title: Flavien Moreau
 description: >-
-  Personal website of Flavien Moreau.
-url: "https://www.flavienmoreau.io"   # your live URL
+  Flavien Moreau's research and policy work.
+url: "https://www.flavienmoreau.com"   # your live URL
 baseurl: ""                            # leave empty for a root-domain user site
 
 author:
@@ -16,11 +16,10 @@ email: fmoreau@imf.org
 
 # Links — leave a value empty ("") to hide that link everywhere.
 social:
-  scholar:  "https://scholar.google.com/citations?user=FSoQ5W0AAAAJ"                 # full Google Scholar profile URL
-  orcid:    "https://orcid.org/0000-0001-6163-171X"                 # full ORCID URL
-  repec:    "https://ideas.repec.org/f/pmo1302.html"                 # full RePEc/IDEAS URL
+  scholar:  ""                 # full Google Scholar profile URL
+  repec:    ""                 # full RePEc/IDEAS URL
   github:   "flavienmoreau"    # username only
-  linkedin: "https://www.linkedin.com/in/flavien-moreau-2a0316149"                 # full LinkedIn URL
+  linkedin: ""                 # full LinkedIn URL
   twitter:  ""                 # X/Twitter username only
   cv:       "/assets/cv.pdf"   # drop your CV here as assets/cv.pdf
 
@@ -30,6 +29,10 @@ nav:
     url: /
   - title: Research
     url: /research/
+  - title: Policy
+    url: /policy/
+  - title: Teaching
+    url: /teaching/
   - title: CV
     url: /cv/
 
