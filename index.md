@@ -23,3 +23,6 @@ title: Home
   </div>
   {% endfor %}
 </section>
+<div style="margin-top:48px;padding-top:20px;border-top:1px solid var(--rule);">
+  <p style="font-size:.82rem;color:var(--muted);line-height:1.55;margin:0;">The views expressed on this website are those of the author and do not necessarily represent the views of the IMF, its Executive Board, or IMF management.</p>
+</div>
