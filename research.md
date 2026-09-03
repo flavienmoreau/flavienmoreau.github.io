@@ -75,6 +75,11 @@ title: Research
   </div>
 </section>
 
+  <div class="entry">
+    <div class="title">The Macroeconomics of Conflict and Recovery</div>
+    <div class="meta">with Hippolyte Balima and others</div>
+  </div>
+
 <section class="section">
   <h2>Selected work in progress</h2>
 
@@ -84,11 +89,7 @@ title: Research
   </div>
   <div class="entry">
     <div class="title">Remittances and Economic Development</div>
-    <div class="meta">with Nikolay Danov and others</div>
-  </div>
-  <div class="entry">
-    <div class="title">The Macroeconomics of Conflict and Recovery</div>
-    <div class="meta">with Hippolyte Balima and others</div>
+    <div class="meta">with the National Bank of Rwanda</div>
   </div>
   <div class="entry">
     <div class="title">Migration, Knowledge Diffusion, and Development</div>
