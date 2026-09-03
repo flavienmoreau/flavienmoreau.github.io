@@ -12,7 +12,7 @@ title: Research
 
   <div class="entry">
     <span class="date">Forthcoming</span>
-    <div class="title"><a href="/assets/papers/Search_Model_of_M_A_rev2.pdf">A Search-Based Theory of Merger Waves</a></div>
+    <div class="title"><a href="/assets/papers/Moreau_Uslu_Merger_Waves.pdf">A Search-Based Theory of Merger Waves</a></div>
     <div class="meta"><a href="https://www.aeaweb.org/journals/random-author-order" title="Authors listed in certified random order">ⓡ</a> <a href="https://sites.google.com/site/semihusluweb/home">Semih Üslü</a> · <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S001429212600098X">European Economic Review</a></em> (forthcoming)</div>
     <div class="links"><a href="https://www.imf.org/en/publications/wp/issues/2025/11/14/a-search-based-theory-of-mergers-and-acquisitions-571856">IMF WP 2025/239</a></div>
   </div>
@@ -26,9 +26,9 @@ title: Research
 
   <div class="entry">
     <span class="date">2024</span>
-    <div class="title"><a href="/assets/papers/Judge_bias-73ky.pdf">Judge Bias in Labor Courts and Firm Performance</a></div>
+    <div class="title"><a href="/assets/papers/Cahuc_Carcillo_Moreau_Patault_Judge_Bias.pdf">Judge Bias in Labor Courts and Firm Performance</a></div>
     <div class="meta">with <a href="https://sites.google.com/site/pierrecahuc/">Pierre Cahuc</a>, <a href="https://sites.google.com/site/stephanecarcillo/">Stéphane Carcillo</a>, and <a href="https://sites.google.com/view/berengerepatault/home">Bérengère Patault</a> · <em><a href="https://academic.oup.com/jeea/article-abstract/22/3/1319/7258640">Journal of the European Economic Association</a></em>, 2024</div>
-    <div class="links"><a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Judge-Bias-in-Labor-Courts-and-Firm-Performance-50061">IMF WP</a><a href="https://voxeu.org/article/judge-bias-labour-courts-and-firm-performance">VoxEU</a></div>
+    <div class="links"><a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Judge-Bias-in-Labor-Courts-and-Firm-Performance-50061">IMF WP</a><a href="https://cepr.org/voxeu/columns/judge-bias-labour-courts-and-firm-performance">VoxEU</a></div>
   </div>
 
   <div class="entry">
@@ -39,9 +39,9 @@ title: Research
 
   <div class="entry">
     <span class="date">2022</span>
-    <div class="title"><a href="/assets/papers/The_shape_of_mortality_oct20.pdf">A Unified Model of Cohort Mortality for Economic Analysis</a></div>
+    <div class="title"><a href="/assets/papers/LlerasMuney_Moreau_Cohort_Mortality.pdf">A Unified Model of Cohort Mortality for Economic Analysis</a></div>
     <div class="meta">with <a href="https://adriana-llerasmuney.squarespace.com/">Adriana Lleras-Muney</a> · <em><a href="https://read.dukeupress.edu/demography/article/59/6/2109/319693/A-Unified-Model-of-Cohort-Mortality">Demography</a></em>, 2022</div>
-    <div class="links"><a href="https://www.nber.org/papers/w28193">NBER WP</a><a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/13/A-Unified-Model-of-Cohort-Mortality-for-Economic-Analysis-50062">IMF WP</a><a href="https://www.imf.org/external/Pubs/FT/irb/2021/springsummer/index.pdf">IMF Research Perspectives</a><a href="https://flavienmoreau.shinyapps.io/app-lmr/">Model</a><a href="/assets/papers/Replication_package_v0.zip">Replication</a></div>
+    <div class="links"><a href="https://www.nber.org/papers/w28193">NBER WP</a><a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/13/A-Unified-Model-of-Cohort-Mortality-for-Economic-Analysis-50062">IMF WP</a><a href="https://www.imf.org/external/Pubs/FT/irb/2021/springsummer/index.pdf">IMF Research Perspectives</a><a href="https://flavienmoreau.shinyapps.io/app-lmr/">Model</a></div>
   </div>
 </section>
 
@@ -64,14 +64,14 @@ title: Research
 
   <div class="entry">
     <span class="date">Under review</span>
-    <div class="title"><a href="/assets/papers/Chen-Matsuura-Moreau-Pereira2024-IMF-WP.pdf">Harnessing Satellite Data to Improve Social Assistance Targeting in the Eastern Caribbean</a></div>
+    <div class="title"><a href="/assets/papers/Chen_Matsuura_Moreau_Pereira_Satellite_Targeting.pdf">Harnessing Satellite Data to Improve Social Assistance Targeting in the Eastern Caribbean</a></div>
     <div class="meta">with <a href="https://www.sophiaychen.com/">Sophia Chen</a>, <a href="https://ryumatsuura.github.io/">Ryu Matsuura</a>, and Joana Pereira</div>
     <div class="links"><a href="https://www.imf.org/en/Publications/WP/Issues/2024/04/05/Harnessing-Satellite-Data-to-Improve-Social-Assistance-Targeting-in-the-Eastern-Caribbean-547416">IMF WP</a></div>
   </div>
 
   <div class="entry">
     <span class="date">Under revision</span>
-    <div class="title"><a href="/assets/papers/FM_JMPv2.pdf">Inferring Capital-Labor Substitution from Firm Size Distortions</a></div>
+    <div class="title"><a href="/assets/papers/Moreau_Capital_Labor_Substitution.pdf">Inferring Capital-Labor Substitution from Firm Size Distortions</a></div>
   </div>
 </section>
 
@@ -139,6 +139,6 @@ title: Research
   <h2>Replication</h2>
   <div class="entry">
     <span class="date">2023</span>
-    <div>In July 2023, we organized the first <a href="https://www.worldbank.org/en/events/2023/07/17/bank-fund-replication-games">Bank-Fund Replication Games</a> in partnership with the <a href="https://i4replication.org/index.html">Institute for Replication</a>.</div>
+    <div>In July 2023, we organized the first <a href="https://www.worldbank.org/en/events/2023/07/17/bank-fund-replication-games">Bank-Fund Replication Games</a> in partnership with the <a href="https://www.i4replication.org/">Institute for Replication</a>.</div>
   </div>
 </section>
