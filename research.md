@@ -51,10 +51,18 @@ title: Research
 
   <div class="entry">
     <span class="date">2026</span>
+    <div class="title"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">The Macroeconomics of Conflict and Recovery</a></div>
+    <div class="meta">with Hippolyte Balima, Colombe Ladreit, Andresa Lagerborg, ,<a href="https://sites.google.com/site/presbitero/"> Andrea F. Presbitero</a> and Evgenia Weaver</div> 
+    <div class="links"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">IMF WP</a></div>
+  </div>
+  
+  <div class="entry">
+    <span class="date">2026</span>
     <div class="title"><a href="/assets/papers/LAC_Demography_and_LFP_WP.pdf">Offsetting the Demographic Drag? Endogenous Female Labor Supply in Latin American Economies</a></div>
     <div class="meta">with <a href="https://scholar.google.com/citations?user=84O7K3MAAAAJ">Camila Casas</a> and <a href="https://scholar.google.com/citations?user=1xjpsMgAAAAJ&hl=en">Nicolas Gomez Parra</a></div>
+    <div class="links"><a href="https://www.elibrary.imf.org/view/journals/001/2026/203/001.2026.issue-203-en.xml">IMF WP</a></div>
   </div>
-
+  
   <div class="entry">
     <span class="date">Rej.&amp;R</span>
     <div class="title">Beyond Tariffs: Infrastructure Gaps and Trade in Latin America</div>
@@ -76,13 +84,6 @@ title: Research
   </div>
 </section>
 
-  <div class="entry">
-    <span class="date">2026</span>
-    <div class="title"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">The Macroeconomics of Conflict and Recovery</a></div>
-    <div class="meta">with Hippolyte Balima, Colombe Ladreit, Andresa Lagerborg, ,<a href="https://sites.google.com/site/presbitero/"> Andrea F. Presbitero</a> and Evgenia Weaver</div> 
-        <div class="links"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">IMF WP</a></div>
-
-  </div>
 
 <section class="section">
   <h2>Selected work in progress</h2>
