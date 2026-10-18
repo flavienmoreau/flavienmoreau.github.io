@@ -52,7 +52,7 @@ title: Research
   <div class="entry">
     <span class="date">2026</span>
     <div class="title"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">The Macroeconomics of Conflict and Recovery</a></div>
-    <div class="meta">with Hippolyte Balima, Colombe Ladreit, Andresa Lagerborg, ,<a href="https://sites.google.com/site/presbitero/"> Andrea F. Presbitero</a> and Evgenia Weaver</div> 
+    <div class="meta">with <a href="https://sites.google.com/view/hippolytebalima"> Hippolyte Balima </a>, Colombe Ladreit, Andresa Lagerborg, ,<a href="https://sites.google.com/site/presbitero/"> Andrea F. Presbitero</a> and Evgenia Weaver</div> 
     <div class="links"><a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">IMF WP</a></div>
   </div>
   
