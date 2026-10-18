@@ -4,7 +4,7 @@ title: Home
 ---
 
 <section class="hero">
-  <img class="portrait" src="{{ '/assets/img/portrait.svg' | relative_url }}" alt="{{ site.author.name }}">
+  <img class="portrait" src="{{ '/assets/img/Moreau_Flavien_bio_pic.jpg' | relative_url }}" alt="{{ site.author.name }}">
   <h1>{{ site.author.name }}</h1>
   <!-- <p class="role">{{ site.author.role }}, {{ site.author.affiliation }}</p> -->
   <div class="bio">
