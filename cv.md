@@ -48,6 +48,15 @@ title: CV
 </section>
 
 <section class="section">
+  <h2>Affiliation</h2>
+    <div class="entry">
+      <span class="date">2026–</span>
+      <div class="title">Princeton University -- Julis-Rabinowitz Center for Public Policy and Finance</div>
+      <div class="sub">Non-Resident Fellow</div>
+    </div>
+  </section>
+
+<section class="section">
   <h2>Education</h2>
   <div class="entry"><span class="date">2019</span><div class="title">Ph.D. Economics</div><div class="meta">University of California, Los Angeles</div></div>
   <div class="entry"><span class="date">2015</span><div class="title">M.A. Economics</div><div class="meta">University of California, Los Angeles</div></div>
