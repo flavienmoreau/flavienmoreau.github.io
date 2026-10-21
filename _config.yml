@@ -18,6 +18,7 @@ email: fmoreau@imf.org
 social:
   scholar:  ""                 # full Google Scholar profile URL
   repec:    ""                 # full RePEc/IDEAS URL
+  orcid:   ""                  # full ORCID URL, see includes social html
   github:   "flavienmoreau"    # username only
   linkedin: ""                 # full LinkedIn URL
   twitter:  ""                 # X/Twitter username only
