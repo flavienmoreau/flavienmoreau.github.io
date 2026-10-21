@@ -59,8 +59,9 @@ a:hover{ color:var(--accent-hover); border-bottom-color:var(--accent-hover); }
 .role{ color:var(--muted); font-size:1.05rem; margin:0 0 28px; }
 .bio p{ margin:0 0 16px; }
 .portrait{
-  float:right; width:224px; height:203px; border-radius:2px;
-  margin:6px 0 16px 28px; background:var(--rule);
+  float:left;                         /* was: float:right */
+  width:118px; height:118px; border-radius:2px;
+  margin:6px 28px 16px 0;             /* was: margin:6px 0 16px 28px */
 }
 
 /* ── sections ── */
