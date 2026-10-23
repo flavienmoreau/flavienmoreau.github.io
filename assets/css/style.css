@@ -122,3 +122,17 @@ a:focus-visible, .nav a:focus-visible{ outline:2px solid var(--accent); outline-
   .hero h1{ font-size:2.1rem; }
   .portrait{ float:none; display:block; margin:0 0 20px; }
 }
+
+/* ── expandable abstract (pure CSS, no JS) ── */
+.abs-toggle{ position:absolute; opacity:0; width:0; height:0; }
+.abs-link{ cursor:pointer; color:var(--accent); }
+.abs-link:hover{ text-decoration:underline; }
+.abs-link::before{ content:"▸ "; font-size:.7em; }
+.abs-toggle:checked ~ .links .abs-link::before{ content:"▾ "; }
+.entry .abstract{
+  display:none;
+  color:var(--muted); font-size:.95rem; line-height:1.55;
+  margin-top:10px; padding-left:14px; border-left:2px solid var(--rule);
+}
+.abs-toggle:checked ~ .abstract{ display:block; }
+.abs-toggle:focus-visible ~ .links .abs-link{ outline:2px solid var(--accent); outline-offset:2px; }
