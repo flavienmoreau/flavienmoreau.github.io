@@ -2,10 +2,6 @@
 layout: default
 title: Research
 ---
----
-layout: default
-title: Research
----
 
 <section class="hero" style="padding-bottom:0">
   <h1>Research</h1>
@@ -37,9 +33,11 @@ title: Research
     <div class="title"><a href="/assets/papers/Cahuc_Carcillo_Moreau_Patault_Judge_Bias.pdf">Judge Bias in Labor Courts and Firm Performance</a></div>
     <div class="meta">with <a href="https://sites.google.com/site/pierrecahuc/">Pierre Cahuc</a>, <a href="https://sites.google.com/site/stephanecarcillo/">Stéphane Carcillo</a>, and <a href="https://sites.google.com/view/berengerepatault/home">Bérengère Patault</a> · <em><a href="https://academic.oup.com/jeea/article-abstract/22/3/1319/7258640">Journal of the European Economic Association</a></em>, 2024</div>
     <input type="checkbox" id="abs-judgebias" class="abs-toggle">
-    <div class="links"><label for="abs-judgebias" class="abs-link">Abstract</label> | <a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Judge-Bias-in-Labor-Courts-and-Firm-Performance-50061">IMF WP</a><a href="https://cepr.org/voxeu/columns/judge-bias-labour-courts-and-firm-performance">VoxEU</a></div>
-    <div class="abstract">This paper documents the existence of judge-specific differences on granting compensation for wrongful dismissal and shows that their consequences are different for small low-performing firms than for other firms. Pro-worker judge bias reduces job creation for all firms, increases the destruction of permanent jobs in small and low-performing firms but reduces it in large high-performing firms. Pro-worker bias reduces employment and survival for small and low-performing firms but has no significant effects on these outcomes for the other firms. The probability that permanent incumbent workers keep their job in firms judged by a pro-worker judge increases in large and high-performing firms, while it decreases in small, poorly performing firms.</div>
+    <div class="links"><label for="abs-judgebias" class="abs-link">Abstract</label> | <a href="https://www.imf.org/en/Publications/WP/Issues/2021/02/12/Judge-Bias-in-Labor-Courts-and-Firm-Performance-50061">IMF WP</a><a href="https://cepr.org/publications/dp15399">CEPR DP</a><a href="https://cepr.org/voxeu/columns/judge-bias-labour-courts-and-firm-performance">VoxEU</a></div>
+    <div class="abstract">This paper documents the existence of judge-specific differences on granting compensation for wrongful dismissal and shows that their consequences are different for small low-performing firms than for other firms. Judger bias reduces employment and survival for small and low-performing firms but has no significant effects on these outcomes for the other firms. The probability that permanent incumbent workers keep their job in firms judged by a pro-worker judge increases in large and high-performing firms, while it decreases in small, poorly performing firms.</div>
   </div>
+
+  
 
   <div class="entry">
     <span class="date">2024</span>
@@ -47,7 +45,7 @@ title: Research
     <div class="meta">with <a href="https://www.zamid.co.uk/research">Zamid Alighishiev</a> · <em>International Economics</em>, 2024</div>
     <input type="checkbox" id="abs-saudi" class="abs-toggle">
     <div class="links"><label for="abs-saudi" class="abs-link">Abstract</label></div>
-    <div class="abstract">Saudi Arabia, currently the world's largest oil exporter, embarked since 2021 on a large-scale National Investment Strategy (NIS) designed to lift potential GDP growth by diversifying the economy. This article describes the strategy and is the first paper that quantifies its impact on growth using a dynamic general equilibrium model. It also decomposes this impact into two main channels: the direct impact of the investment push and the impact of complementary reforms. We find that the overall strategy — when supported by appropriate fiscal measures, labor supply reform, and higher public sector efficiency — could boost potential non-oil growth by 4.8 percentage points to about 8.8 percent in the medium term. We also assess the growth dividends of a wider range of alternative scenarios around the NIS baseline.</div>
+    <div class="abstract">Saudi Arabia, embarked since 2021 on a large-scale National Investment Strategy (NIS) designed to lift potential GDP growth by diversifying the economy. This article describes the strategy and is the first paper that quantifies its impact on growth using a dynamic general equilibrium model. It also decomposes this impact into two main channels: the direct impact of the investment push and the impact of complementary reforms. We find that the overall strategy — when supported by appropriate fiscal measures, labor supply reform, and higher public sector efficiency — could boost potential non-oil growth by 4.8 percentage points to about 8.8 percent in the medium term. We also assess the growth dividends of a wider range of alternative scenarios around the NIS baseline.</div>
   </div>
 
   <div class="entry">
@@ -69,7 +67,7 @@ title: Research
     <div class="meta">with <a href="https://sites.google.com/view/hippolytebalima"> Hippolyte Balima </a>, Colombe Ladreit, Andresa Lagerborg, <a href="https://sites.google.com/site/presbitero/"> Andrea F. Presbitero</a> and Evgenia Weaver</div>
     <input type="checkbox" id="abs-conflict" class="abs-toggle">
     <div class="links"><label for="abs-conflict" class="abs-link">Abstract</label> | <a href="https://www.imf.org/en/publications/wp/issues/2026/09/04/macroeconomics-of-war-and-recovery-579376">IMF WP</a><a href="https://cepr.org/publications/dp21943">CEPR DP</a></div>
-    <div class="abstract">[Paste the Conflict and Recovery abstract here — no local PDF found in assets/papers/.]</div>
+    <div class="abstract"> This paper studies the macroeconomic dynamics of conflicts and post-conflict recovery using a newly assembled global dataset covering 194 countries, including 170 conflict onsets and 158 conflict terminations, over the period 1946–2024. Using a local-projection difference-in-differences framework we trace the evolution of macroeconomic aggregates around conflict onset and termination. We make four contributions. First, output losses from conflicts typically exceed those associated with banking, currency, and sovereign debt crises, as well as severe natural disasters. Second, external-sector dynamics constitute a central mechanism through which wars amplify macroeconomic challenges, despite policymakers' efforts to contain the war shock. Third, post-conflict recoveries are slow and uneven and depend critically on the durability of peace: conflict resumption stalls recovery prospects, while sustained peace produces only gradual recoveries relative to wartime losses. These recoveries are typically labor-led, while capital accumulation and productivity remain subdued. Fourth, firm-level evidence confirms this labor-led recovery and points to persistent financial constraints that hinder capital rebuilding during the post-conflict period. We propose an external-sector adjustment mechanism in the form of a war-driven sudden stop and show that economies entering a war with weaker external balance sheets---a higher ratio of short-term external debt to reserves---suffer both a deeper wartime contraction and a slower recovery.</div>
   </div>
 
   <div class="entry">
@@ -87,7 +85,7 @@ title: Research
     <div class="meta">with Rina Bhattacharya, <a href="https://www.rparente.com/">Rafael Parente</a>, and Sam Pienknagura</div>
     <input type="checkbox" id="abs-tariffs" class="abs-toggle">
     <div class="links"><label for="abs-tariffs" class="abs-link">Abstract</label> | <a href="https://www.imf.org/en/Publications/WP/Issues/2024/12/14/The-Dynamics-of-Trade-Integration-and-Fragmentation-in-LAC-559484">IMF WP</a><a href="https://www.imf.org/en/Blogs/Articles/2023/11/16/how-latin-america-can-use-trade-to-boost-growth">IMF Blog</a><a href="https://www.bloomberglinea.com/english/latam-hasnt-done-enough-to-boost-trade-and-reduce-inequality-imfs-georgieva-says/">Bloomberg Línea</a><a href="https://www.economist.com/the-americas/2024/06/13/why-latin-america-is-the-worlds-trade-pipsqueak">The Economist</a></div>
-    <div class="abstract">Based on “The Dynamics of Trade Integration and Fragmentation in Latin America” (with Rafael Machado Parente). Trade barriers and poor infrastructure play an important role in limiting trade integration in Latin America and the Caribbean (LAC). Closing half of the infrastructure gap between LAC and advanced economies could lift exports by 30 percent. Reducing import tariffs could boost LAC's trade, but its responsiveness is lower than in other EMDEs, particularly in the long run, due to the region's specialization in agricultural exports with inelastic demand and supply constraints like growing cycles and weather conditions. Amid deepening global trade tensions, LAC is well placed to withstand a mild trade fragmentation scenario, in which trade barriers are erected only among large economies. However, the region's output losses could be sizable in more extreme scenarios, where the global economy splinters into competing economic blocs and LAC loses access to important markets. Boosting trade, including regional trade, could pay a double dividend of lifting growth in the region while mitigating risks from global fragmentation.</div>
+    <div class="abstract"> Trade barriers and poor infrastructure play an important role in limiting trade integration in Latin America and the Caribbean (LAC). Closing half of the infrastructure gap between LAC and advanced economies could lift exports by 30 percent. Reducing import tariffs could boost LAC's trade, but its responsiveness is lower than in other EMDEs, particularly in the long run, due to the region's specialization in agricultural exports with inelastic demand and supply constraints like growing cycles and weather conditions. Amid deepening global trade tensions, LAC is well placed to withstand a mild trade fragmentation scenario, in which trade barriers are erected only among large economies. However, the region's output losses could be sizable in more extreme scenarios, where the global economy splinters into competing economic blocs and LAC loses access to important markets. Boosting trade, including regional trade, could pay a double dividend of lifting growth in the region while mitigating risks from global fragmentation.</div>
   </div>
 
   <div class="entry">
@@ -170,5 +168,4 @@ title: Research
     <span class="date">2023</span>
     <div>In July 2023, we organized the first <a href="https://www.worldbank.org/en/events/2023/07/17/bank-fund-replication-games">Bank-Fund Replication Games</a> in partnership with the <a href="https://www.i4replication.org/">Institute for Replication</a>.</div>
   </div>
-</section>
 </section>
