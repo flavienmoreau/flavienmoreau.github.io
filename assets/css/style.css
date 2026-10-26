@@ -140,6 +140,8 @@ a:focus-visible, .nav a:focus-visible{ outline:2px solid var(--accent); outline-
 /* ── coauthor / journal links in the meta line: grey, not green ── */
 .entry .meta a{ color:var(--muted); border-bottom-color:rgba(116,114,107,.45); }
 .entry .meta a:hover{ color:var(--ink); border-bottom-color:var(--ink); }
+.entry .meta em, .entry .meta em a{ color:var(--ink); }
+.entry .meta em a:hover{ color:var(--accent); }
 
 /* ── expandable citation (BibTeX / APA) ── */
 .cite-toggle{ position:absolute; opacity:0; width:0; height:0; }
